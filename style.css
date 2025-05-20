@@ -7,7 +7,31 @@
   font-variation-settings: "wdth" 100;
 }
 
+.shadows-into-light-regular {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  text-align: center;
+  color: pink;
+}
+
 .navbar {
-  color: rgb(255, 0, 0);
   text-decoration: none;
+}
+
+footer {
+  margin-bottom: 0px;
+}
+
+.main {
+  width: 60%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+.content {
+  color: pink;
 }
